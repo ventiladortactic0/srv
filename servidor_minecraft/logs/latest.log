@@ -439,3 +439,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11May2025 17:41:08.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set the time to 1000]
 [11May2025 17:44:05.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Adventure Mode]
 [11May2025 17:44:08.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 17:50:23.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set the time to 1000]
+[11May2025 17:54:07.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Adventure Mode]
+[11May2025 17:54:13.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 17:54:14.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[11May2025 17:54:22.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=68, z=18} BlockPos{x=77, y=68, z=16}
+[11May2025 17:54:22.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=68, z=18} BlockPos{x=77, y=68, z=16}
+[11May2025 17:54:22.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=68, z=18} BlockPos{x=77, y=68, z=16}
+[11May2025 17:54:22.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=67, z=18} BlockPos{x=78, y=68, z=18}
+[11May2025 17:54:22.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=68, z=17} BlockPos{x=78, y=68, z=18}
+[11May2025 17:54:22.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=68, z=17} BlockPos{x=78, y=68, z=18}
+[11May2025 17:54:22.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=68, z=17} BlockPos{x=78, y=68, z=18}
+[11May2025 17:54:22.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=68, z=17} BlockPos{x=78, y=68, z=18}
+[11May2025 17:54:22.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=67, z=18} BlockPos{x=78, y=68, z=18}
+[11May2025 17:54:22.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=67, z=18} BlockPos{x=79, y=67, z=18}
+[11May2025 17:54:23.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=67, z=18} BlockPos{x=79, y=67, z=18}
+[11May2025 17:54:23.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=67, z=18} BlockPos{x=79, y=67, z=18}
+[11May2025 17:54:23.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=68, z=18} BlockPos{x=79, y=67, z=18}
+[11May2025 17:54:23.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=68, z=18} BlockPos{x=79, y=68, z=18}
+[11May2025 17:54:26.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
