@@ -1175,3 +1175,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11May2025 20:06:41.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Teleported itstomii_ to 9959.500000, 188.000000, 10205.500000]
 [11May2025 20:06:58.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Teleported itstomii_ to 0.500000, 90.000000, 0.500000]
 [11May2025 20:07:08.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 20:16:23.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Changed the block at 9959, 160, 10205]
+[11May2025 20:16:36.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Changed the block at 9959, 185, 10205]
+[11May2025 20:23:04.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Teleported itstomii_ to 0.500000, 90.000000, 0.500000]
+[11May2025 20:23:21.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
