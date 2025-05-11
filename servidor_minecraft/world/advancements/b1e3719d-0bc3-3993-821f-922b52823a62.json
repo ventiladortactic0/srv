@@ -1054,6 +1054,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/secure_redstone_interface": {
+    "criteria": {
+      "has_radar": "2025-05-11 19:47:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/ims": {
+    "criteria": {
+      "has_radar": "2025-05-11 19:47:21 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:main/root": {
     "criteria": {
       "0": "2025-05-11 19:34:25 +0000"
