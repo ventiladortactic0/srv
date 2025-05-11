@@ -360,3 +360,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11May2025 16:46:37.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
 [11May2025 16:46:45.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
 [11May2025 16:47:31.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 16:53:56.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[11May2025 16:53:59.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 16:54:07.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[11May2025 16:54:11.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 16:55:30.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[11May2025 16:55:33.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 16:57:21.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[11May2025 16:57:32.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ hit the ground too hard
+[11May2025 16:57:47.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 16:58:00.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
+[11May2025 16:58:02.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[11May2025 16:58:18.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ was doomed to fall
+[11May2025 16:58:24.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 16:58:28.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
+[11May2025 16:58:31.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 16:59:06.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
+[11May2025 16:59:07.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[11May2025 16:59:14.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ was doomed to fall
+[11May2025 16:59:20.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 17:00:20.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ was killed
+[11May2025 17:00:20.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Killed itstomii_]
+[11May2025 17:00:30.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 17:00:45.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ was killed
+[11May2025 17:00:45.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Killed itstomii_]
+[11May2025 17:00:52.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 17:01:52.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itstomii_ lost connection: Disconnected
+[11May2025 17:01:52.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ left the game
+[11May2025 17:01:52.116] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itstomii_
+[11May2025 17:03:13.006] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itstomii_[/100.76.30.27:49901] logged in with entity id 9130 at (29.69999998807907, -61.21193690886671, -13.087290764520276)
+[11May2025 17:03:13.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ joined the game
+[11May2025 17:03:13.177] [Server thread/INFO] [Jade/]: Syncing config to itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62)
+[11May2025 17:03:13.413] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itstomii_ (18)
+[11May2025 17:03:13.416] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itstomii_
+[11May2025 17:03:15.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b1e3719d-0bc3-3993-821f-922b52823a62
+[11May2025 17:03:16.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b1e3719d-0bc3-3993-821f-922b52823a62
+[11May2025 17:03:16.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62) successfully connected to voice chat
+[11May2025 17:03:35.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[11May2025 17:03:41.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ fell from a high place
+[11May2025 17:03:49.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
