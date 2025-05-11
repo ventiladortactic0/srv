@@ -12,3 +12,45 @@
 [11May2025 00:11:47.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ was killed
 [11May2025 00:11:47.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Killed itstomii_]
 [11May2025 00:11:49.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 00:12:43.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itstomii_ lost connection: Disconnected
+[11May2025 00:12:43.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ left the game
+[11May2025 00:12:43.506] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itstomii_
+[11May2025 00:13:14.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itstomii_[/100.76.30.27:59980] logged in with entity id 14473 at (25.222529879539824, -60.9619749789508, -6.577861195124164)
+[11May2025 00:13:14.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ joined the game
+[11May2025 00:13:14.922] [Server thread/INFO] [Jade/]: Syncing config to itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62)
+[11May2025 00:13:15.224] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itstomii_ (18)
+[11May2025 00:13:15.224] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itstomii_
+[11May2025 00:13:19.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b1e3719d-0bc3-3993-821f-922b52823a62
+[11May2025 00:13:20.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b1e3719d-0bc3-3993-821f-922b52823a62
+[11May2025 00:13:20.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62) successfully connected to voice chat
+[11May2025 00:16:56.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itstomii_ lost connection: Disconnected
+[11May2025 00:16:56.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ left the game
+[11May2025 00:16:56.800] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itstomii_
+[11May2025 00:17:41.405] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itstomii_[/100.76.30.27:60070] logged in with entity id 14823 at (27.609766812091518, -62.0, -5.675237842214353)
+[11May2025 00:17:41.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ joined the game
+[11May2025 00:17:41.515] [Server thread/INFO] [Jade/]: Syncing config to itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62)
+[11May2025 00:17:41.680] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itstomii_ (18)
+[11May2025 00:17:41.681] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itstomii_
+[11May2025 00:17:44.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b1e3719d-0bc3-3993-821f-922b52823a62
+[11May2025 00:17:45.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b1e3719d-0bc3-3993-821f-922b52823a62
+[11May2025 00:17:45.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62) successfully connected to voice chat
+[11May2025 00:17:59.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ was killed
+[11May2025 00:17:59.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Killed itstomii_]
+[11May2025 00:18:03.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 00:18:11.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itstomii_ lost connection: Disconnected
+[11May2025 00:18:11.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ left the game
+[11May2025 00:18:11.902] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itstomii_
+[11May2025 00:18:18.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itstomii_[/100.76.30.27:60105] logged in with entity id 14890 at (24.205772726784666, -62.0, -5.392724673392081)
+[11May2025 00:18:18.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ joined the game
+[11May2025 00:18:18.657] [Server thread/INFO] [Jade/]: Syncing config to itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62)
+[11May2025 00:18:18.872] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itstomii_ (18)
+[11May2025 00:18:18.872] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itstomii_
+[11May2025 00:18:21.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b1e3719d-0bc3-3993-821f-922b52823a62
+[11May2025 00:18:22.416] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b1e3719d-0bc3-3993-821f-922b52823a62
+[11May2025 00:18:22.417] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62) successfully connected to voice chat
+[11May2025 00:20:51.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ was killed
+[11May2025 00:20:51.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Killed itstomii_]
+[11May2025 00:20:58.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[11May2025 00:21:00.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 00:21:31.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Removed tag 'muerto' from itstomii_]
+[11May2025 00:21:38.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
