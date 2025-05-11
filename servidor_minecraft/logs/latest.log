@@ -399,3 +399,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11May2025 17:03:35.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
 [11May2025 17:03:41.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ fell from a high place
 [11May2025 17:03:49.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 17:04:28.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
+[11May2025 17:04:30.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[11May2025 17:04:34.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ fell from a high place
+[11May2025 17:04:43.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 17:05:35.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ was killed
+[11May2025 17:05:35.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Killed itstomii_]
+[11May2025 17:05:43.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 17:06:12.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
+[11May2025 17:06:18.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 17:06:30.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
+[11May2025 17:06:36.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 17:06:37.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[11May2025 17:07:22.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ itstomii_ ha consumido un tótem!
+[11May2025 17:07:22.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ has reached the goal [Postmortal]
+[11May2025 17:07:29.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ has made the advancement [Suit Up]
+[11May2025 17:07:48.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 17:08:03.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
+[11May2025 17:08:07.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 17:10:08.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set the time to 1000]
+[11May2025 17:10:14.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
+[11May2025 17:10:27.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ has made the advancement [Alex's Caves]
+[11May2025 17:11:06.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
