@@ -11037,3 +11037,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11May2025 17:54:23.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=68, z=18} BlockPos{x=79, y=67, z=18}
 [11May2025 17:54:23.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=68, z=18} BlockPos{x=79, y=68, z=18}
 [11May2025 17:54:26.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 17:55:09.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 17:55:09.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 17:57:53.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[11May2025 17:58:02.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=72, z=50} BlockPos{x=65, y=72, z=49}
+[11May2025 17:58:02.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=72, z=50} BlockPos{x=65, y=72, z=49}
+[11May2025 17:58:03.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=72, z=50} BlockPos{x=65, y=72, z=49}
+[11May2025 17:58:08.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=72, z=47} BlockPos{x=64, y=71, z=47}
+[11May2025 17:58:08.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=72, z=47} BlockPos{x=64, y=71, z=47}
+[11May2025 17:58:08.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=72, z=47} BlockPos{x=64, y=71, z=47}
+[11May2025 17:58:08.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=72, z=47} BlockPos{x=64, y=71, z=47}
+[11May2025 17:58:09.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=66, y=75, z=49} BlockPos{x=66, y=74, z=49}
+[11May2025 17:58:09.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=66, y=75, z=49} BlockPos{x=66, y=74, z=49}
+[11May2025 17:58:10.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=74, z=49} BlockPos{x=66, y=74, z=49}
+[11May2025 17:58:10.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=74, z=49} BlockPos{x=66, y=74, z=49}
+[11May2025 17:58:10.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=74, z=49} BlockPos{x=66, y=74, z=49}
+[11May2025 17:58:10.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=74, z=49} BlockPos{x=66, y=74, z=49}
+[11May2025 17:58:10.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=74, z=49} BlockPos{x=66, y=74, z=49}
+[11May2025 17:58:10.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=73, z=49} BlockPos{x=66, y=74, z=49}
+[11May2025 17:58:10.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=73, z=49} BlockPos{x=66, y=74, z=49}
+[11May2025 17:58:10.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=73, z=49} BlockPos{x=66, y=74, z=49}
+[11May2025 17:58:10.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=73, z=49} BlockPos{x=66, y=74, z=49}
+[11May2025 17:58:10.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=73, z=49} BlockPos{x=66, y=74, z=49}
+[11May2025 17:58:10.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=73, z=49} BlockPos{x=66, y=74, z=49}
+[11May2025 17:58:16.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[11May2025 18:00:09.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 18:00:09.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 18:00:21.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: The difficulty has been set to Easy]
+[11May2025 18:00:44.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ has made the advancement [Stone Age]
+[11May2025 18:01:06.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set the time to 1000]
+[11May2025 18:01:12.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set the weather to clear]
+[11May2025 18:05:09.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 18:05:09.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
