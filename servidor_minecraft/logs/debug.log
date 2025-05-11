@@ -11007,3 +11007,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11May2025 17:33:34.442] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/19375, l='ServerLevel[world]', x=48.24, y=48.63, z=-208.02], dimensionLocationPath overworld
 [11May2025 17:33:34.442] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/19375, l='ServerLevel[world]', x=48.24, y=48.63, z=-208.02] in list []
 [11May2025 17:33:34.574] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/19375, l='ServerLevel[world]', x=48.24, y=48.63, z=-208.02, removed=UNLOADED_TO_CHUNK]
+[11May2025 17:35:09.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 17:35:09.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 17:40:09.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 17:40:09.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 17:41:08.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set the time to 1000]
+[11May2025 17:44:05.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Adventure Mode]
+[11May2025 17:44:08.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]

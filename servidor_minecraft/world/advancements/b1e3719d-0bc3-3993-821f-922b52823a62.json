@@ -767,6 +767,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_blue_ice": {
+    "criteria": {
+      "has_block": "2025-05-11 17:33:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-11 17:21:05 +0000"
