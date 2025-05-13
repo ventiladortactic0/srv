@@ -2066,9 +2066,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-13 03:01:13 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/redstone/echo_button": {
     "criteria": {
       "has_planks": "2025-05-13 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-13 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-13 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-13 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-13 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-13 03:01:13 +0000"
     },
     "done": true
   },
@@ -2081,6 +2117,24 @@
   "deeperdarker:recipes/redstone/echo_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-13 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-13 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-05-13 03:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-13 03:02:26 +0000"
     },
     "done": true
   },
@@ -2099,6 +2153,12 @@
   "deeperdarker:recipes/building_blocks/bloom_planks": {
     "criteria": {
       "has_logs": "2025-05-13 02:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-13 03:02:26 +0000"
     },
     "done": true
   },
