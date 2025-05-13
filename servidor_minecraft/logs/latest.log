@@ -267,3 +267,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13May2025 02:26:54.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
 [13May2025 02:30:13.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
 [13May2025 02:31:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[13May2025 02:34:12.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
+[13May2025 02:34:31.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[13May2025 02:36:45.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[13May2025 02:36:49.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[13May2025 02:36:50.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ fell into poisonous water...?
+[13May2025 02:36:51.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[13May2025 02:37:23.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Teleported itstomii_ to 10000.500000, 90.000000, 10000.500000]
+[13May2025 02:37:36.847] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:abyssal_chasm took 374 ms
+[13May2025 02:37:41.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Teleported itstomii_ to 10736.500000, -38.000000, 10544.500000]
+[13May2025 02:37:41.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
+[13May2025 02:37:44.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
+[13May2025 02:37:48.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itstomii_ moved too quickly! -8.273698284281636,0.0,6.201443620113423
+[13May2025 02:38:01.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
