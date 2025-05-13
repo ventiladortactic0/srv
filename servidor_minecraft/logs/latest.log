@@ -280,3 +280,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13May2025 02:37:44.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
 [13May2025 02:37:48.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itstomii_ moved too quickly! -8.273698284281636,0.0,6.201443620113423
 [13May2025 02:38:01.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[13May2025 02:49:33.991] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/15931, l='ServerLevel[world]', x=10609.50, y=39.00, z=10587.50]
