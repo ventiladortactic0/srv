@@ -318,3 +318,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14May2025 22:28:52.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b1e3719d-0bc3-3993-821f-922b52823a62
 [14May2025 22:28:53.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b1e3719d-0bc3-3993-821f-922b52823a62
 [14May2025 22:28:53.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62) successfully connected to voice chat
+[14May2025 22:36:46.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Created new objective [mision_diaria]]
+[14May2025 22:41:16.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set [mision_diaria] for itstomii_ to 0]
+[14May2025 22:41:48.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set [mision_diaria] for itstomii_ to 0]
+[14May2025 22:42:20.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set [mision_diaria] for itstomii_ to 0]
+[14May2025 22:42:35.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set [mision_diaria] for itstomii_ to 0]
