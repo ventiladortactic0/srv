@@ -312,3 +312,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14May2025 21:42:09.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: The difficulty has been set to Peaceful]
 [14May2025 21:56:06.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
 [14May2025 21:56:13.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[14May2025 22:28:45.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b1e3719d-0bc3-3993-821f-922b52823a62 timed out
+[14May2025 22:28:45.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player itstomii_
+[14May2025 22:28:45.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to itstomii_
+[14May2025 22:28:52.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b1e3719d-0bc3-3993-821f-922b52823a62
+[14May2025 22:28:53.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b1e3719d-0bc3-3993-821f-922b52823a62
+[14May2025 22:28:53.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62) successfully connected to voice chat
