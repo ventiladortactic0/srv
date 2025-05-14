@@ -2186,15 +2186,81 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_bricks": {
+    "criteria": {
+      "has_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/rift_stabilizer": {
+    "criteria": {
+      "has_iron": "2025-05-14 21:44:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_stairs_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_slab": {
+    "criteria": {
+      "has_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_pillar": {
+    "criteria": {
+      "has_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_quartz": {
+    "criteria": {
+      "has_item": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_quartz_block_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:main/clean_energy": {
     "criteria": {
       "0": "2025-05-14 21:33:36 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_slab_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
       "make_a_sign_glow": "2025-05-14 21:23:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_pillar_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_stairs": {
+    "criteria": {
+      "has_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_bricks_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
     },
     "done": true
   },
