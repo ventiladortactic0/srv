@@ -308,3 +308,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14May2025 21:19:21.562] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/5503, l='ServerLevel[world]', x=10609.50, y=43.00, z=10590.50]
 [14May2025 21:20:27.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
 [14May2025 21:23:08.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ has made the advancement [Glow and Behold!]
+[14May2025 21:33:36.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ has made the advancement [Clean Energy]
+[14May2025 21:42:09.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: The difficulty has been set to Peaceful]
