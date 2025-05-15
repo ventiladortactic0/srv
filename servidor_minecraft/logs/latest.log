@@ -427,3 +427,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15May2025 03:54:03.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itstomii_> t a i l s c a l e
 [15May2025 03:54:38.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set the time to 1000]
 [15May2025 03:59:06.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itstomii_> 10708 -18 10597
+[15May2025 04:02:59.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Summoned new Bee]
+[15May2025 04:03:03.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Summoned new Bee]
+[15May2025 04:03:04.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Summoned new Bee]
+[15May2025 04:03:04.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Summoned new Bee]
+[15May2025 04:03:04.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Summoned new Bee]
+[15May2025 04:03:04.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Summoned new Bee]
+[15May2025 04:03:32.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Summoned new Turtle]
