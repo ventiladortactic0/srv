@@ -2186,6 +2186,84 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-05-14 21:23:08 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/clean_energy": {
+    "criteria": {
+      "0": "2025-05-14 21:33:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/rift_stabilizer": {
+    "criteria": {
+      "has_iron": "2025-05-14 21:44:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_bricks": {
+    "criteria": {
+      "has_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_stairs_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_slab": {
+    "criteria": {
+      "has_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_pillar": {
+    "criteria": {
+      "has_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_quartz": {
+    "criteria": {
+      "has_item": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_quartz_block_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_slab_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_pillar_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_stairs": {
+    "criteria": {
+      "has_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_bricks_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-05-14 21:55:49 +0000"
@@ -2228,21 +2306,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_quartz_bricks": {
-    "criteria": {
-      "has_block": "2025-05-14 21:44:43 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/magenta_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-05-14 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/rift_stabilizer": {
-    "criteria": {
-      "has_iron": "2025-05-14 21:44:42 +0000"
     },
     "done": true
   },
@@ -2279,12 +2345,6 @@
   "cfm:recipes/decorations/gray_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-05-14 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_quartz_stairs_from_reinforced_quartz_block_stonecutting": {
-    "criteria": {
-      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
     },
     "done": true
   },
@@ -2330,18 +2390,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_quartz_slab": {
-    "criteria": {
-      "has_block": "2025-05-14 21:44:43 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_quartz_pillar": {
-    "criteria": {
-      "has_block": "2025-05-14 21:44:43 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-05-14 21:55:49 +0000"
@@ -2372,12 +2420,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_smooth_quartz": {
-    "criteria": {
-      "has_item": "2025-05-14 21:44:43 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-05-14 21:55:49 +0000"
@@ -2387,12 +2429,6 @@
   "cfm:recipes/decorations/pink_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-05-14 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_quartz_block_from_reinforced_quartz_block_stonecutting": {
-    "criteria": {
-      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
     },
     "done": true
   },
@@ -2426,12 +2462,6 @@
     },
     "done": true
   },
-  "superbwarfare:main/clean_energy": {
-    "criteria": {
-      "0": "2025-05-14 21:33:36 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/yellow_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-05-14 21:55:49 +0000"
@@ -2447,12 +2477,6 @@
   "cfm:recipes/decorations/white_kitchen_drawer": {
     "criteria": {
       "has_concrete": "2025-05-14 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_quartz_slab_from_reinforced_quartz_block_stonecutting": {
-    "criteria": {
-      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
     },
     "done": true
   },
@@ -2486,21 +2510,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/make_a_sign_glow": {
-    "criteria": {
-      "make_a_sign_glow": "2025-05-14 21:23:08 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/magenta_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-05-14 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_quartz_pillar_from_reinforced_quartz_block_stonecutting": {
-    "criteria": {
-      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
     },
     "done": true
   },
@@ -2636,12 +2648,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_quartz_stairs": {
-    "criteria": {
-      "has_block": "2025-05-14 21:44:43 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/red_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-05-14 21:55:49 +0000"
@@ -2651,12 +2657,6 @@
   "cfm:recipes/decorations/light_gray_kitchen_drawer": {
     "criteria": {
       "has_concrete": "2025-05-14 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_quartz_bricks_from_reinforced_quartz_block_stonecutting": {
-    "criteria": {
-      "has_reinforced_quartz_block": "2025-05-14 21:44:43 +0000"
     },
     "done": true
   },
