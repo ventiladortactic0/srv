@@ -456,3 +456,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15May2025 04:44:38.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevcito24 (8e3ec451-1a1d-3512-9e3d-be47cfea5cfb) successfully connected to voice chat
 [15May2025 04:44:39.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Teleported kevcito24 to itstomii_]
 [15May2025 04:46:10.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: The difficulty has been set to Peaceful]
+[15May2025 04:51:31.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: The difficulty has been set to Easy]
+[15May2025 04:51:33.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevcito24 has made the advancement [Alex's Mobs]
+[15May2025 04:51:40.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: The difficulty has been set to Peaceful]
+[15May2025 04:52:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set kevcito24's game mode to Creative Mode]
+[15May2025 04:52:54.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevcito24 lost connection: Disconnected
+[15May2025 04:52:54.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevcito24 left the game
+[15May2025 04:52:54.616] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevcito24
+[15May2025 04:53:13.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevcito24[/100.90.193.40:49290] logged in with entity id 12089 at (75.9036705560616, 65.87357742697259, -4.720180870004007)
+[15May2025 04:53:13.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevcito24 joined the game
+[15May2025 04:53:13.426] [Server thread/INFO] [Jade/]: Syncing config to kevcito24 (8e3ec451-1a1d-3512-9e3d-be47cfea5cfb)
+[15May2025 04:53:13.600] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kevcito24 (18)
+[15May2025 04:53:13.601] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kevcito24
+[15May2025 04:53:15.990] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8e3ec451-1a1d-3512-9e3d-be47cfea5cfb
+[15May2025 04:53:16.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8e3ec451-1a1d-3512-9e3d-be47cfea5cfb
+[15May2025 04:53:16.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevcito24 (8e3ec451-1a1d-3512-9e3d-be47cfea5cfb) successfully connected to voice chat
+[15May2025 04:53:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: The difficulty has been set to Easy]
+[15May2025 04:53:54.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set kevcito24's game mode to Survival Mode]
+[15May2025 04:54:38.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set the time to 13000]
+[15May2025 04:55:06.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevcito24 has made the advancement [Monster Hunter]
+[15May2025 04:56:06.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: The difficulty has been set to Peaceful]
+[15May2025 04:56:11.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set the time to 1000]
+[15May2025 04:56:17.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Removed 12 item(s) from player kevcito24]
+[15May2025 04:56:22.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set kevcito24's game mode to Creative Mode]
