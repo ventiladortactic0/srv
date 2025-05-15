@@ -424,3 +424,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15May2025 03:42:58.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Teleported itstomii_ to 0.500000, 90.000000, 0.500000]
 [15May2025 03:43:02.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
 [15May2025 03:43:24.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[15May2025 03:54:03.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itstomii_> t a i l s c a l e
+[15May2025 03:54:38.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set the time to 1000]
+[15May2025 03:59:06.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itstomii_> 10708 -18 10597
