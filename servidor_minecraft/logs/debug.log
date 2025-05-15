@@ -3909,3 +3909,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15May2025 05:06:25.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set the weather to clear]
 [15May2025 05:07:41.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set the weather to clear]
 [15May2025 05:07:43.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Teleported kevcito24 to itstomii_]
+[15May2025 05:10:12.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 05:10:12.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 05:11:54.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Spectator Mode]
+[15May2025 05:11:56.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Survival Mode]
+[15May2025 05:11:58.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=67, z=20} BlockPos{x=76, y=67, z=20}
+[15May2025 05:11:58.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=67, z=20} BlockPos{x=76, y=67, z=20}
+[15May2025 05:11:58.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=67, z=20} BlockPos{x=76, y=67, z=20}
+[15May2025 05:11:58.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=67, z=20} BlockPos{x=76, y=67, z=20}
+[15May2025 05:11:58.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=67, z=21} BlockPos{x=76, y=67, z=20}
+[15May2025 05:11:58.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=67, z=21} BlockPos{x=76, y=67, z=20}
+[15May2025 05:11:58.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=67, z=21} BlockPos{x=76, y=67, z=20}
+[15May2025 05:11:58.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=67, z=21} BlockPos{x=76, y=67, z=20}
+[15May2025 05:11:58.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=67, z=21} BlockPos{x=76, y=67, z=20}
+[15May2025 05:11:58.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=67, z=22} BlockPos{x=76, y=67, z=20}
+[15May2025 05:11:58.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=67, z=22} BlockPos{x=76, y=67, z=20}
+[15May2025 05:11:58.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=67, z=22} BlockPos{x=76, y=67, z=20}
+[15May2025 05:11:59.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=67, z=21} BlockPos{x=77, y=67, z=22}
+[15May2025 05:11:59.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=67, z=21} BlockPos{x=77, y=67, z=22}
+[15May2025 05:11:59.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=67, z=20} BlockPos{x=78, y=67, z=21}
+[15May2025 05:12:02.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itstomii_: Set own game mode to Creative Mode]
+[15May2025 05:15:12.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 05:15:12.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
